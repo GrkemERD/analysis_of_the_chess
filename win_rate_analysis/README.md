@@ -42,6 +42,7 @@ Follow these steps to set up and run the analysis on your local machine:
 
 *📈 Visualizations*
 ![Win Rate Distribution](images/win_rate_pie_chart.png)
+
 *Figure 1: A pie chart representing the total outcome distribution.*
 
 **Note: Findings will be added soon.**
