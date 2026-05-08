@@ -4,6 +4,7 @@ This repository contains various analyses of chess match data.
 
 ## 📁 Available Analyses
 *   **[Win Rate Analysis](./win_rate_analysis/):** Detailed statistical analysis of 6 million games focused on white vs. black win rates.
+*   **[Optimal Opening Finder](./optimal-opening-finder/):** Elo-based opening performance analysis to identify the most successful moves for specific player ratings.
 
 ---
 *Developed by [GrkemERD](https://github.com/GrkemERD)*
