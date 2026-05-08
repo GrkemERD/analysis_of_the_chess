@@ -12,5 +12,6 @@ This repository contains various analyses of chess match data.
 **Python 3.12(.10)**
 *   **Pandas**
 *   **Matplotlib**
+---
 
 * Download the `chess_games.csv` file from the official source: [Lichess Open Database(uploaded to kaggle)](https://www.kaggle.com/datasets/arevel/chess-games).
